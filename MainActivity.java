@@ -1,4 +1,4 @@
-package com.eeag.sextaapp;
+package com.example.application6;
 
 import android.content.Intent;
 import android.os.Bundle;
