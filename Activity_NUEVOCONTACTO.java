@@ -1,4 +1,5 @@
-package com.eeag.sextaapp;
+package com.exampleavm.application6;
+
 
 import android.os.Bundle;
 
